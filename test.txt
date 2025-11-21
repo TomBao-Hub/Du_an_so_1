@@ -1,1 +1,2 @@
 cap nhap
+cap nhap 2
