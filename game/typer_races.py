@@ -73,3 +73,5 @@ while run:
 	pygame.display.flip()
 
 pygame.quit()
+
+#https://www.youtube.com/watch?v=3RDMRpUHFBE&t=8s
